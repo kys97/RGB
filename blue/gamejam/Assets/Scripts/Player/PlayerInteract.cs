@@ -70,5 +70,6 @@ public class PlayerInteract : MonoBehaviour
             playerItem.curItem = PlayerItem.Items.damage;
         else if (collision.tag == "Gage")
             playerItem.curItem = PlayerItem.Items.gage;
+        
     }
 }

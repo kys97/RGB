@@ -39,6 +39,6 @@ public class GameManager : MonoBehaviour
     }
     public void GameOver()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(3);
     }
 }

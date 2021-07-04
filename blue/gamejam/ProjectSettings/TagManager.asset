@@ -15,6 +15,7 @@ TagManager:
   - Boss
   - Death
   - Monster
+  - Door
   layers:
   - Default
   - TransparentFX
